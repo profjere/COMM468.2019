@@ -3,17 +3,17 @@ Files for Advanced Web Development
 
 Notes:
 
-//reset for CSS
-*{
-    margin:0;
-    padding:0;
-    background-color:#fff;
+//reset for CSS<br/>
+*{<br/>
+    margin:0;<br/>
+    padding:0;<br/>
+    background-color:#fff;<br/>
 }
 
 //flexbox:
 
-.container {
-  display: flex; /* or inline-flex */
+.container {<br/>
+  display: flex; /* or inline-flex */<br/>
    flex-direction: row | row-reverse | column | column-reverse;
    flex-wrap: nowrap | wrap | wrap-reverse;
    justify-content: [see https://css-tricks.com/snippets/css/a-guide-to-flexbox/]
