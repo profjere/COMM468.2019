@@ -20,4 +20,24 @@ Notes:
      align-items: [see https://css-tricks.com/snippets/css/a-guide-to-flexbox/]<br/>
 }
 
- 
+//grid layout:<br/>
+display: grid;<br/>
+    grid-template-columns: repeat(3, 1fr);<br/>
+    grid-template-rows: repeat(7, 100px);<br/>
+    /*grid-template-rows: 100px 100px 100px 100px 100px 100px 100px;<br/>
+    grid-auto-rows: 100px;*/<br/>
+
+
+header{<br/>
+     grid-row: 1/2;<br/>
+     grid-column: 1/4;<br/>
+    background-color: #f00;<br/>
+}<br/>
+
+nav{<br/>
+    grid-row: 2/3;<br/>
+    grid-column: 1/4;<br/>
+     background-color: #0f0;<br/>
+}<br/>
+
+
