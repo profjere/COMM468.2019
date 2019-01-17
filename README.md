@@ -21,12 +21,13 @@ Notes:
 }
 
 //grid layout:<br/>
+#container{<br/>
 display: grid;<br/>
     grid-template-columns: repeat(3, 1fr);<br/>
     grid-template-rows: repeat(7, 100px);<br/>
     /* grid-template-rows: 100px 100px 100px 100px 100px 100px 100px;<br/>
     grid-auto-rows: 100px; */<br/>
-
+}<br/>
 
 header{<br/>
      grid-row: 1/2;<br/>
