@@ -67,5 +67,9 @@ Variables<br/>
  Text Units</br/>
  Pixels, ems, and rems: https://codepen.io/jeremy-sarachan/pen/aXoexb<br/>
  
+ Transitions: https://css-tricks.com/almanac/properties/t/transition/<br/>
+ See this example: https://codepen.io/jeremy-sarachan/pen/MLWggR<br/>
+ Types of timing changes: https://www.w3schools.com/cssref/css3_pr_transition-timing-function.asp<br/>
+ 
  
  
