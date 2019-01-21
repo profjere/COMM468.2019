@@ -56,8 +56,8 @@ padding:<br/>
 border-radius: four numbers, from top-left<br/>
 <br/>
 Sibling Combinator<br/>
-h2 + p (<p> right after the <h2>-and on the same level)<br/>
-h2 ~ p  (all <p> after an <h2>--and on the same level)<br/>
+h2 + p <br/>
+h2 ~ p <br/>
 ul > li -- <br/>
     https://codepen.io/jeremy-sarachan/pen/YBKmPK<br/>
 <br/>
