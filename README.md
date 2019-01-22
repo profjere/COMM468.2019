@@ -55,21 +55,32 @@ margin:<br/>
 padding:<br/>
 border-radius: four numbers, from top-left<br/>
 <br/>
-Sibling Combinator<br/>
+ <h2>Sibling Combinator</h2>
 h2 + p <br/>
 h2 ~ p <br/>
 ul > li -- <br/>
     https://codepen.io/jeremy-sarachan/pen/YBKmPK<br/>
 <br/>
-Variables<br/>
+ <h2>Variables </h2>
     See this example: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables <br/>
-    
- Text Units</br/>
+  <br/>  
+ <h2>Text Units< </h2>
  Pixels, ems, and rems: https://codepen.io/jeremy-sarachan/pen/aXoexb<br/>
- 
- Transitions: https://css-tricks.com/almanac/properties/t/transition/<br/>
+ <br/>
+    <h2>Transitions</h2> https://css-tricks.com/almanac/properties/t/transition/<br/>
  See this example: https://codepen.io/jeremy-sarachan/pen/MLWggR<br/>
  Types of timing changes: https://www.w3schools.com/cssref/css3_pr_transition-timing-function.asp<br/>
+ <br/>
+    <h2>Gradients</h2>
+    https://cssgradient.io/<br/>
+    https://codepen.io/jeremy-sarachan/pen/NoWKRO<br/>
+    
+ Media Queries:<br/>
+ Resizing Text: uses em/rems and set the html{font-size: X%}<br/>
+ Resizing Images: You can set the width to 100% and height to auto OR background-size: cover or background-size:contain;<br/>
+ Resizing images: https://codepen.io/jeremy-sarachan/pen/KJKpWY
+ NOT DONE: Resizing background image: https://codepen.io/jeremy-sarachan/pen/YBzXpQ
+ 
  
  
  
