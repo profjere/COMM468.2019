@@ -64,7 +64,7 @@ ul > li -- <br/>
  <h2>Variables </h2>
     See this example: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables <br/>
   <br/>  
- <h2>Text Units< </h2>
+ <h2>Text Units </h2>
  Pixels, ems, and rems: https://codepen.io/jeremy-sarachan/pen/aXoexb<br/>
  <br/>
     <h2>Transitions</h2> https://css-tricks.com/almanac/properties/t/transition/<br/>
