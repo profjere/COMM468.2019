@@ -46,6 +46,7 @@ nav{<br/>
 <h2>Google Fonts</h2>
 
 https://www.w3schools.com/css/default.asp
+https://www.afterhoursprogramming.com/tutorial/css/css-overview/
 <br/>
 color:<br/>
 font-family:<br/>
