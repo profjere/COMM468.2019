@@ -43,7 +43,7 @@ nav{<br/>
 
 <h1>CSS</h1>
 
-Google Fonts
+<h2>Google Fonts</h2>
 
 https://www.w3schools.com/css/default.asp
 <br/>
@@ -75,11 +75,12 @@ ul > li -- <br/>
     https://cssgradient.io/<br/>
     https://codepen.io/jeremy-sarachan/pen/NoWKRO<br/>
     
- Media Queries:<br/>
- Resizing Text: uses em/rems and set the html{font-size: X%}<br/>
+ <h2>for Media Queries:</h2>
+ Resizing Text: uses em/rems and set the html{font-size: X%}<br/> <br/>
  Resizing Images: You can set the width to 100% and height to auto OR background-size: cover or background-size:contain;<br/>
- Resizing images: https://codepen.io/jeremy-sarachan/pen/KJKpWY
- NOT DONE: Resizing background image: https://codepen.io/jeremy-sarachan/pen/YBzXpQ
+ Resizing Images: https://codepen.io/jeremy-sarachan/pen/KJKpWY
+ <br/>
+ Resizing background image: https://codepen.io/jeremy-sarachan/pen/YBzXpQ
  
  
  
