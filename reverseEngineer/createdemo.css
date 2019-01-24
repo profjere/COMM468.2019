@@ -1,0 +1,199 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    #container{
+        display:flex;
+        flex-direction: column;
+    }
+    
+    
+    header{
+    position:fixed;
+        width:100%;
+        background-color:#000;
+        height:90px; 
+        z-index:2;
+         top:0;
+        left:0;
+        display:flex;
+        flex-direction: row;
+        align-content:flex-start;
+}
+    #extraDiv{
+        top:0;
+        left:0;
+        position:fixed;
+        width:100%;
+        background-color:#fff;
+        height:90px; 
+        z-index:1;
+    }
+    header h1{
+        font-family: 'Jacques Francois', serif;
+        font-size:3em;
+        color:#fff;
+        
+        padding:0 2em 0 1em;
+    }
+    
+    nav{
+        display:flex;
+        flex-direction: row;
+        align-content: flex-end;
+    }
+    nav p{
+        color:#fff;
+        padding: 0 3px;
+    }
+    nav a{
+        color:#fff;
+        text-decoration: none;
+    }
+    
+    nav a:hover{
+        color:#bbb;
+    }
+    #container{
+        position:relative;
+        padding-top:90px;
+    }
+    .welcome{
+        width:100%;
+        background-color:#000;
+        height:300px;
+        padding:2em;
+    }
+    .welcome h1{
+        color:#fff;
+        font-size:3.2em;
+        margin-bottom:.4em;
+    }
+    
+    .underlineText{
+        text-decoration:underline;
+        text-decoration-color: #00f;
+    }
+        
+    button{
+        border: 4px solid #fff;
+        border-radius: 2px;
+        font-family:sans-serif;
+        font-weight:bold;
+        font-size:1.1em;
+        padding:.6em 1.1em;
+        
+        color:#fff;
+        margin-right:1em;
+    }  
+    
+    .welcome button{
+        background-color:#000;
+    }
+    
+    .welcome button:hover{
+        background-color:#fff;
+        color:#000;
+    }
+    
+    .example1{
+        background-image:url("Fisher.png");
+        background-size:contain;
+        background-repeat:no-repeat;
+        background-color:#993936;
+        width:100%;
+        height:320px;
+        padding-top:450px;
+        
+  
+}
+        
+    }
+    .example1 > h1{
+        color:#fff;
+        font-size:3em;
+        text-align: center;
+        font-family: sans-serif;
+        
+    }
+    
+    .example1 > p{
+        text-align: center;
+        font-family: sans-serif;
+        color:#fff;
+        font-size:1.2em;
+        
+    }
+    
+    .example1 button{
+        margin-top:20px;
+        background-color:#993936;
+        width:50%;
+        
+       
+    }
+
+
+
+.centerButton{
+    width:100%;
+    text-align:center;
+}
+  
+.welcomeText{
+    width:100%;
+    height:430px;
+    
+}
+
+.welcomeText h2{
+    text-align: center;
+    margin:30px 0;
+    font-size:1.9em;
+
+}
+.welcomeText p{
+    font-size:1.1em;
+    line-height: 1.4em;
+    margin-bottom: 1em;
+    padding:0 .5em;
+    
+}
+.welcomeText button{
+    border: solid 2px #000;
+    color:#000;
+}
+
+.whatWeOffer{
+    width:100%;
+    height:800px;
+    
+    
+}
+    
+.whatweoffer h1{
+    text-align: center;
+    font-weight: bold;
+}
+.whatweoffer h2{
+    color:#555;
+    font-size:1.1em;
+    text-align: center;
+}
+
+.services{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+.category{
+    margin: 1em 0;
+}
+    
+    
+}
+    
+}
