@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    /*works without flex, but consistent when you make it work on wider screens*/
+    
+    #container{
+        display:flex;
+        flex-direction: column;
+    }
+    
+    
+    
+    
+}
+    
